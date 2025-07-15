@@ -1,4 +1,4 @@
-# 📊 Marketing Campaign Performance Insights
+# Marketing Campaign Performance Insights
 
 This project analyzes digital marketing campaigns to uncover insights that help optimize return on investment (ROI), conversion rates, and audience engagement. It focuses on identifying key factors influencing campaign success across different channels, locations, and customer segments.
 
